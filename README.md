@@ -16,7 +16,7 @@ You should download the dataset from http://serre-lab.clps.brown.edu/wp-content/
 To cope with the limited computational resources and speed the training, we choose 10 classes with 75 frames per video.
 
 ## Packages Installation
-numpy, pandas, sklearn, matplotlib, pytorch, itertools...
+numpy, pandas, matplotlib, pytorch, itertools...
 
 Using pip to install packages via Python Library From pypi:  
 ```
