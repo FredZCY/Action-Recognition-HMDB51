@@ -11,7 +11,7 @@ General body movements: cartwheel, clap hands, climb, climb stairs, dive, fall o
 Body movements with object interaction: brush hair, catch, draw sword, dribble, golf, hit something, kick ball, pick, pour, push something, ride bike, ride horse, shoot ball, shoot bow, shoot gun, swing baseball bat, sword exercise, throw.
 Body movements for human interaction: fencing, hug, kick someone, kiss, punch, shake hands, sword fight.
 
-You should download the dataset from http://205.174.165.80/CICDataset/NSL-KDD/
+You should download the dataset from http://serre-lab.clps.brown.edu/wp-content/uploads/2013/10/hmdb51_org.rar or you can run dataset.py
 ## Packages Installation
 numpy, pandas, sklearn, matplotlib, seaborn, xgboost, scipy, pycaret, pytorch, itertools
 
