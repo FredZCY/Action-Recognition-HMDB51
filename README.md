@@ -12,6 +12,9 @@ With nearly one billion online videos viewed everyday, an emerging new frontier 
 - Body movements for human interaction: fencing, hug, kick someone, kiss, punch, shake hands, sword fight.
 
 You should download the dataset from http://serre-lab.clps.brown.edu/wp-content/uploads/2013/10/hmdb51_org.rar or you can run dataset.py
+
+To cope with the limited computational resources and speed the training, we choose 10 classes with 75 frames per video.
+
 ## Packages Installation
 numpy, pandas, sklearn, matplotlib, pytorch, itertools...
 
