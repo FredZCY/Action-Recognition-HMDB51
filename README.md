@@ -13,7 +13,7 @@ Body movements for human interaction: fencing, hug, kick someone, kiss, punch, s
 
 You should download the dataset from http://serre-lab.clps.brown.edu/wp-content/uploads/2013/10/hmdb51_org.rar or you can run dataset.py
 ## Packages Installation
-numpy, pandas, sklearn, matplotlib, seaborn, xgboost, scipy, pycaret, pytorch, itertools
+numpy, pandas, sklearn, matplotlib, pytorch, itertools...
 
 Using pip to install packages via Python Library From pypi:  
 ```
@@ -21,3 +21,5 @@ pip install package_name
 ```
 **For more installation information of Pytorch**  
 Please click on https://pytorch.org/get-started/locally/ 
+
+to be continue...
