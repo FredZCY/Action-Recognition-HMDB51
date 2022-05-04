@@ -2,6 +2,8 @@ import requests
 import os
 import glob
 
+#Credit to https://github.com/IDKiro/action-recognition for this file
+
 def download_file(URL, destination):
     session = requests.Session()
     response = session.get(URL, stream = True)
