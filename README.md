@@ -40,7 +40,7 @@ We use a mostly pretrained VGG16 architecture to process each frame. These outpu
 layer and then sent to a sequential model. We use LSTMs for our sequential model. On the test set, we get 68% accuracy.
 <p float="left">
   <img src="https://github.com/FredZCY/Action-Recognition-HMDB51/blob/main/imgs/conv_lstm_action_rec_loss.png" width="300" height="200" />
-  <img src="https://github.com/FredZCY/Action-Recognition-HMDB51/blob/main/imgs/conv_lstm_action_rec_acc.png" width="3000" height="200" />
+  <img src="https://github.com/FredZCY/Action-Recognition-HMDB51/blob/main/imgs/conv_lstm_action_rec_acc.png" width="300" height="200" />
 </p>
 
 
