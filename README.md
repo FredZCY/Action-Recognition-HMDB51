@@ -38,4 +38,4 @@ Please click on https://pytorch.org/get-started/locally/
 We use a mostly pretrained VGG16 architecture to process each frame. These outputs are fed to a fully connected
 layer and then sent to a sequential model. We use LSTMs for our sequential model. On the test set, we get 68% Accuracy
 
-<img src="https://github.com/FredZCY/European_Soccer_Database/blob/9c169fe3f10ed7ee1d6affde3199630220664ca3/images/models.png"/>
+<img src="https://github.com/FredZCY/Action-Recognition-HMDB51/blob/main/imgs/architecture.jpg"/>
