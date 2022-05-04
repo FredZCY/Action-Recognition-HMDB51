@@ -30,3 +30,6 @@ Please click on https://pytorch.org/get-started/locally/
 
 
 ## LSTM Approach
+We use a mostly pretrained VGG16 architecture to process each frame. These outputs are fed to a fully connected
+layer and then sent to a sequential model. We use LSTMs for our sequential model. On the test set, we get 68% Accuracy
+
