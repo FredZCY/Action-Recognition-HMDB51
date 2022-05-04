@@ -1,7 +1,8 @@
 # Action-Recognition-HMDB51
 ## Background
 
-Human action recognition has been well studied and various approaches have been proposed. Traditional approaches are based on object detection, pose detection, dense trajectories, or structural information. Convolutional Neural Networks(CNN) are able to extract features from each frame and pool the features from multiple frames to achieve video-level prediction, though they fail to obtain sufficient motion information\. In addition to 2D CNNs used for image processing, 3D CNNs were proposed to process videos.
+Human action recognition has been well studied and various approaches have been proposed. Traditional approaches are based on object detection, pose detection, dense trajectories, or structural information. Convolutional Neural Networks(CNN) are able to extract features from each frame and pool the features from multiple frames to achieve video-level prediction, though they fail to obtain sufficient motion information. In addition to 2D CNNs used for image processing, 3D CNNs were proposed to process videos.
+
 Due to the ability of long-term temporal modeling, recurrent neural networks (RNN), particularly long short-term memory (LSTM), obtained outstanding results in sequence tasks, therefore an alternate technique is to use LSTM to model dynamics of frame-level data. Recent designs have concentrated on leveraging attention mechanism to pick salient parts of the video, which contributes to overcoming the constraint of LSTMs.
 
 ## Dataset
