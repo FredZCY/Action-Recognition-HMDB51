@@ -63,5 +63,5 @@ https://github.com/IDKiro/action-recognition
 If you got any enquiries or suggestions, We're all ears :sunglasses:  
 
 - **Institution:**  Johns Hopkins University  :mortar_board: Graduates  
-- **Group Members** Abdouh Harouna Kenfack, Chenyu Zhang, Daniel Stambler, Erix Xie
+- **Group Members:** Abdouh Harouna Kenfack, Chenyu Zhang, Daniel Stambler, Erix Xie
 - **Academic E-mail:** aharoun1@jhu.edu, czhan146@jhu.edu, dstambl2@jhu.edu, jxie36@jhu.edu
