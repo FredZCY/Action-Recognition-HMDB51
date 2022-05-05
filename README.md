@@ -33,6 +33,10 @@ Please click on https://pytorch.org/get-started/locally/
 
 ## Single-frame Approach
 
+We used single frame classification, which trains fast, to get a baseline result. The videos are firstly split into training and test videos, and then 13 frames per video are extracted from each set respectively so that the frames in the test set are guaranteed to be from the videos unseen in the training set. We trained on a custom ConvNet and on fine-tuned VGG16 and ResNet50 models.
+
+
+To train our baseline model using ResNet50, we unfroze all the layers and retrained the imagenet weights by setting ’trainable’ = True. Additionally, we set ’include-top’ = False to ensure the last layers of ResNet50 are not loaded. We found out that a learning rate of 0.005 with Adam as our optimizer led to more stable results. We performed a similar implementation using VGG16, just now we randomly initialized the weights and set ’trainable’ = False.
 
 ## LSTM Approach
 <img src="https://github.com/FredZCY/Action-Recognition-HMDB51/blob/main/imgs/architecture.jpg" width="500" height="300" />
