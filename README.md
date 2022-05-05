@@ -46,7 +46,7 @@ layer and then sent to a sequential model. We use LSTMs for our sequential model
 
 <img src="https://github.com/FredZCY/Action-Recognition-HMDB51/blob/main/imgs/acc&loss.jpg" width="400" height="500" />
 
-## Reference:
+## Reference
 https://github.com/pypi-ahmad/Action-Recognition-on-hmdb51_org-Dataset
 
 
